@@ -1,0 +1,11 @@
+error_message,topic
+NullPointerException,OOP
+IndexOutOfBoundsException,Arrays
+Segmentation fault,Pointers
+Time Limit Exceeded,Time Complexity
+StackOverflowError,Recursion
+SyntaxError: invalid syntax,Syntax
+TypeError unsupported operand type,Data Types
+Division by zero error,Arithmetic
+Memory limit exceeded,Memory Management
+KeyError in dictionary,Data Structures
